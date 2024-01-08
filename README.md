@@ -22,8 +22,8 @@
 - 🏫 Myongji University - Convergence Software Engineering
 - ☀️ SK LOOKIE 5th 2021.03 ~ 2022.03
 - 🌿 UMC 2nd, 3rd Server Part. 2022.03 ~ 2023.02
-- 🌈 MJU GDSC 1st 2022.10 ~ 
-- 🦋 SOPT 32th Server Part. 2023.03 ~
+- 🌈 MJU GDSC 1st 2022.10 ~ 2023.08
+- 🦋 SOPT 32th Server Part. 2023.03 ~ 2023.08
 <br>
 <br>
 <div align=center>
