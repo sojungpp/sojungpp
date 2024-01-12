@@ -14,7 +14,7 @@
 </a>
 <a href="https://sojungpp.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=[https://sojungpp.tistory.com/](https://velog.io/@sojungpp/posts)"
+        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=[https://velog.io/@sojungpp/posts](https://velog.io/@sojungpp/posts)"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
 
