@@ -12,9 +12,9 @@
         src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://broadleaf-mist-919.notion.site/f65516d49a8e4165bec8a2c7711a78b5?pvs=4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://sojungpp.tistory.com/">
+<a href="https://velog.io/@sojungpp/posts">
     <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=[https://velog.io/@sojungpp/posts](https://velog.io/@sojungpp/posts)"
+        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Velog&link=https://velog.io/@sojungpp/posts"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
 
